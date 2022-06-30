@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MSF test</string>
+
+    <string name="enter_string">Enter a string</string>
+    <string name="enter_string_error">The string should start with a capital letter</string>
+    <string name="submit">Submit</string>
+    <string name="enter_angle">Enter an angle</string>
+    <string name="enter_angle_error">The angle should be an number between 0 and 360°</string>
+    <string name="next">Next</string>
+
+    <string name="rotated_image_view_description">Android icon rotated by the number of degrees entered in the previous screen</string>
+</resources>
